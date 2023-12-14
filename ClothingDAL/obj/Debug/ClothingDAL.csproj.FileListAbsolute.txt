@@ -1,0 +1,9 @@
+E:\project\Visual Stdio\Clothing Store Management System\ClothingDAL\bin\Debug\ClothingDAL.dll
+E:\project\Visual Stdio\Clothing Store Management System\ClothingDAL\bin\Debug\ClothingDAL.pdb
+E:\project\Visual Stdio\Clothing Store Management System\ClothingDAL\obj\Debug\ClothingDAL.csproj.AssemblyReference.cache
+E:\project\Visual Stdio\Clothing Store Management System\ClothingDAL\obj\Debug\ClothingDAL.csproj.CoreCompileInputs.cache
+E:\project\Visual Stdio\Clothing Store Management System\ClothingDAL\obj\Debug\ClothingDAL.dll
+E:\project\Visual Stdio\Clothing Store Management System\ClothingDAL\obj\Debug\ClothingDAL.pdb
+E:\project\Visual Stdio\Clothing Store Management System\ClothingDAL\bin\Debug\ClothingEntity.dll
+E:\project\Visual Stdio\Clothing Store Management System\ClothingDAL\bin\Debug\ClothingEntity.pdb
+E:\project\Visual Stdio\Clothing Store Management System\ClothingDAL\obj\Debug\ClothingDAL.csproj.CopyComplete
